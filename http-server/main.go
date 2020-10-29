@@ -2,7 +2,7 @@ package main
 
 import (
 	"html/template"
-	"log"
+	//"log"
 	"net/http"
 	"time"
 
